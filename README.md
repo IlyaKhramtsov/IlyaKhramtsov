@@ -1,5 +1,5 @@
 <a href="https://github.com/IlyaKhramtsov/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IlyaKhramtsov&show_icons=true&count_private=true&theme=onedark" alt="Ilya Khramtsov's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IlyaKhramtsov&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Ilya Khramtsov's GitHub Stats" />
 </a>
 
 <a href="https://github.com/IlyaKhramtsov/">
